@@ -1,4 +1,5 @@
 CropJet is a remote controlled agricultural bot. 
+
 The  core  innovation  includes  an  RC  (Remote-Controlled)  spraying  bot  designed to  liberate  farmers  from  the  cumbersome  task  of  manually  carrying  pesticide  and fertiliser  bags  on  their  backs.  With  CropJet,  farmers  can  bid  farewell  to  the  risks associated  with  harmful  gases  and  physical  strain,  all  while  enhancing productivity  in  their  fields.  It  has  a  sturdy  framework  stand  resembling  a  trolley, providing  a  stable  platform  for  mounting  containers  holding  sprayables  like fertilisers,  pesticides  and  herbicides.  
 
 It  is  engineered  to  carry  a  payload  of  up  to five kilograms. Through  easy  to  understand  mobile  control  interfaces,  farmers  can  precisely target  specific  areas  requiring  treatment,  thus  minimizing  pesticide  drift  and optimizing  resource  utilization.  This  wireless  capability  not  only  enhances operational  efficiency  but  also  minimizes  human  exposure  to  potentially hazardous  spraying  environments,  fostering  a  safer  working environment  for agricultural workers. 
